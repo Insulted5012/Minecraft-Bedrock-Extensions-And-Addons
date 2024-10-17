@@ -1,5 +1,5 @@
 # Minecraft-Bedrock-Extensions-And-Addons
-- Minecraft Bedrock extensions and addons with added extra mods and features. Some include a skin pack and custom world generated maps.
+Minecraft Bedrock extensions and addons with added extra mods and features. Some include a skin pack and custom world generated maps.
 # Bedrock Enhancement Additions
 World Exports, Interesting Addons, Custom Mods and many more to come!
 Come visit and enjoy the wonders of my custom addons and mods right here.
