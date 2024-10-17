@@ -7,6 +7,8 @@ Come visit and enjoy the wonders of my custom addons and mods right here.
  - Custom built worlds crafted by your's truly.
  - Addons that I use for my worlds to create a better environment.
  - Skin packs
+ - Custom UIs
+ - Quality of Life Updates
  - And Much More!
 
 --------------------------------------------------------------------------------
@@ -24,9 +26,11 @@ How to import?
 How to export?
 -
 1. Click on the file you want to download.
-2. Click
+2. Click "view raw" or the "raw" button.
+3. It will ask you to save it, save it in a location you'll be able to remember.
+4. Export both folders out of the zip file onto somewhere of your desire.
 --------------------------------------------------------------------------------
-Follow my Socials for Sneak Peaks!
+Socials & Contacts
 -
 - Instagram:
 https://www.instagram.com/its.du4ne
