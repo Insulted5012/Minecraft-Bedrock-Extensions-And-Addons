@@ -20,6 +20,11 @@ How to import?
 -
 1. Once downloaded, open your "downloads" folder while having the Minecraft Bedrock Client open.
 2. Double click on said downloaded file and it will automatically import towards your Minecraft Bedrock Client.
+
+How to export?
+-
+1. Click on the file you want to download.
+2. Click
 --------------------------------------------------------------------------------
 Follow my Socials for Sneak Peaks!
 -
